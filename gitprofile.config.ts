@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Fiona1777/Microbiome Section Report', 'Fiona1777/Genome Assembly Report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Fiona1777/Microbiome-Section-Report', 'Fiona1777/Genome-Assembly-Report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
