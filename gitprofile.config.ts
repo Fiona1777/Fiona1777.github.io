@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Site Field of Knights Ferry',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Made observation of the wildlife, plants, and environment of my field site, Knights Ferry.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Fiona1777/Fiona1777.github.io/raw/main/Site%20lab%201.docx',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: 'Moment of Inertia Lab',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'We determined the moment of inertia between two different disks and compared those values to their theoretical through the use of conservation of energy of the angular acceleration.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Fiona1777/Fiona1777.github.io/raw/main/Lab%209.docx',
+          link: '',
         },
       ],
     },
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Fiona1777/Fiona1777.github.io/raw/main/FionaShCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Gel Electrophoresis',
@@ -90,18 +90,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'CSU Stanislaus',
+      position: 'Undergrad Research',
+      from: 'August 2024',
+      to: 'May 2025',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   certifications: [
